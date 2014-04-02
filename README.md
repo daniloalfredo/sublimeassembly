@@ -4,7 +4,7 @@ Provides actually decent code highlighting for x86-64 assembly in Sublime Text 2
 It includes full x86-64 instruction set, along with all NASM directives.
 
 
-Copyright (c) 2013, Nessphoro, Damgo, Fuck
+Copyright (c) 2013, Nessphoro
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
